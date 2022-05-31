@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409114341193",
+    "project_id": "fmac-3a1c8",
+    "storage_bucket": "fmac-3a1c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409114341193:android:214dbe98a4f7c59692b498",
+        "android_client_info": {
+          "package_name": "com.example.fmac_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409114341193-77n68pf9710kps667quf4e3ihkdd25b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApGBEreRPql4UOo_IqbQax2lYNI-KIAbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409114341193-77n68pf9710kps667quf4e3ihkdd25b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
